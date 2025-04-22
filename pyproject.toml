@@ -3,3 +3,4 @@ name = "iosm"
 version = "0.1.0"
 description = "IOSM v1.0 specification: reproducible methodology for continuous system improvement. Reference runtime implementation → github.com/rokoss21/iosm-cli"
 requires-python = ">=3.10"
+# clarify the control flow
