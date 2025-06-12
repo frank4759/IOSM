@@ -5,3 +5,4 @@ description = "IOSM v1.0 specification: reproducible methodology for continuous 
 requires-python = ">=3.10"
 # clarify the control flow
 # keep defaults in sync with the manifest
+# guard against empty input
